@@ -1,8 +1,7 @@
-## Natural-Language-Processing-with-Hugging-Face-Transformers
+<h1 align="center">Text Sentiment Analysis using Caikit and Hugging Face</h1>
 ------
-### Author : Svitlana Kramar
 
-<p color="red">Mentee assignment from IBM Advance AI @ Infinite Learning Course <b>Natural-Language-Processing-with-Hugging-Face-Transformers</b>
+<p color="red">Mentee assignment from IBM Advance AI @ Infinite Learning Course <i>Text Sentiment Analysis using Caikit and Hugging Face</i>
 from CognitiveClass.ai</p>
 
 
@@ -25,6 +24,5 @@ from CognitiveClass.ai</p>
       <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     </p>
